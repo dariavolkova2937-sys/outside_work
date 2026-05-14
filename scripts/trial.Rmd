@@ -1,0 +1,13 @@
+---
+title: "outside_work_scripts"
+author: "daria"
+date: "2026-05-14"
+output: html_document
+
+---
+Logistic Regression
+$$
+\log\left(\frac{p}{1-p}\right)
+=
+\beta_0 + \beta_1 x_1 + \beta_2 x_2 + \cdots + \beta_k x_k
+$$
